@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/VewnJ0anD6jD19Lh91/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/VewnJ0anD6jD19Lh91/giphy.gif" width="60%">
 </p>
 
 ```text
@@ -7,7 +7,11 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=28&duration=2000&pause=800&color=F7D94C&center=true&vCenter=true&width=600&lines=FUTURE+PENTESTER;%22Bring+us+the+girl%2C+and+wipe+away+the+debt.%22;%22Booker%2C+are+you+afraid+of+God%3F%22;%22No%2C+I'm+afraid+of+you.%22;HACK+THE+PLANET" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=1500&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=FUTURE+PENTESTER" alt="Future Pentester">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=26&duration=2000&pause=800&color=D4AF37&center=true&vCenter=true&width=600&lines=%22Bring+us+the+girl%2C+and+wipe+away+the+debt.%22;%22Booker%2C+are+you+afraid+of+God%3F%22;%22No%2C+I'm+afraid+of+you.%22;%22A+man+chooses%2C+a+slave+obeys.%22" alt="BioShock Quotes">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=1000&pause=200&color=00FFAA&center=true&vCenter=true&width=600&lines=HACK+THE+PLANET" alt="Hack the Planet">
 </p>
 
 <br>
@@ -68,3 +72,4 @@ class Crypsont:
   <br>
   <sub>🐟 Crypsont © 2026</sub>
 </p>
+
