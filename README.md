@@ -1,12 +1,9 @@
 # 👋 Salut, moi c'est Crypsont
 
-<img align="right" alt="hacker" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazk4YmllN3JzN3FkNmx4cTFwMDZ3dDc3cTg3dWt3dmUxdTBhazdmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
 **Jeune passionné par la cybersécurité, futur pentester.** 🔐
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-arkiiilm-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/arkiiilm)
 [![X](https://img.shields.io/badge/X-@Crypsont-black?style=for-the-badge&logo=x)](https://x.com/Crypsont)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCrypsont&countColor=%23263759)](https://github.com/Crypsont)
 
 ---
 
@@ -21,17 +18,6 @@ class Crypsont:
         self.ultimate_goal = "OSCP"
 ```
 
-## 🛠️ Toolbox
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2C2D72?style=flat&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-
 ## 📈 TryHackMe
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/arkiiilm.png" alt="TryHackMe Stats" width="500">
@@ -39,7 +25,7 @@ class Crypsont:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crypsont&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Crypsont&show_icons=true&theme=radical&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypsont&layout=compact&theme=radical&hide_border=true" width="48%">
 </p>
 
@@ -52,3 +38,4 @@ class Crypsont:
   <br>
   <b>Hack the planet! 🖥️</b>
 </p>
+
