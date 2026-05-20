@@ -6,6 +6,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-arkiiilm-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/arkiiilm)
 [![X](https://img.shields.io/badge/X-@Crypsont-black?style=for-the-badge&logo=x)](https://x.com/Crypsont)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCrypsont&countColor=%23263759)](https://github.com/Crypsont)
 
 ---
 
@@ -17,6 +18,7 @@ class Crypsont:
         self.age = "Young"
         self.languages = ["Python", "Bash", "PowerShell"]
         self.currently_learning = ["Pentesting", "OSCP", "Active Directory"]
+        self.ultimate_goal = "OSCP"
 ```
 
 ## 🛠️ Toolbox
@@ -28,6 +30,7 @@ class Crypsont:
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2C2D72?style=flat&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ## 📈 TryHackMe
 
@@ -40,7 +43,7 @@ class Crypsont:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypsont&layout=compact&theme=radical&hide_border=true" width="48%">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Crypsont&theme=redical&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Crypsont&theme=radical&hide_border=true" width="100%">
 
 ---
 
@@ -49,4 +52,3 @@ class Crypsont:
   <br>
   <b>Hack the planet! 🖥️</b>
 </p>
-
