@@ -4,6 +4,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-arkiiilm-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/arkiiilm)
 [![X](https://img.shields.io/badge/X-@Crypsont-black?style=for-the-badge&logo=x)](https://x.com/Crypsont)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCrypsont&countColor=%23263759)](https://github.com/Crypsont)
 
 ---
 
@@ -25,7 +26,7 @@ class Crypsont:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crypsont&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Crypsont&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypsont&layout=compact&theme=radical&hide_border=true" width="48%">
 </p>
 
@@ -38,4 +39,3 @@ class Crypsont:
   <br>
   <b>Hack the planet! 🖥️</b>
 </p>
-
