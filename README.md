@@ -2,10 +2,6 @@
   <img src="https://files.catbox.moe/qguwj2.gif" width="60%">
 </p>
 
-```text
-☁️ ABOVE THE CLOUDS — COLUMBIA, 1912 ☁️
-```
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=2000&pause=500&color=F7D94C&center=true&vCenter=true&width=700&lines=FUTURE+PENTESTER;%22Bring+us+the+girl%2C+and+wipe+away+the+debt.%22;%22Booker%2C+are+you+afraid+of+God%3F%22;%22No%2C+I'm+afraid+of+you.%22;%22A+man+chooses%2C+a+slave+obeys.%22;HACK+THE+PLANET" alt="Typing SVG">
 </p>
@@ -69,3 +65,5 @@ class Crypsont:
   <br>
   <sub>🐟 Crypsont © 2026</sub>
 </p>
+
+<img src="https://preview.redd.it/theres-always-a-lighthouse-theres-always-a-city-1920x1080-v0-rkjei4sajo7x.jpg?width=1080&crop=smart&auto=webp&s=537b0040773748e0b79f61e713e3becf3fbc5140">
