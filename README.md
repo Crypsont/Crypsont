@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.redd.it/krd3h0o4svq71.gif" width="60%">
+  <img src="https://files.catbox.moe/qguwj2.gif" width="60%">
 </p>
 
 ```text
