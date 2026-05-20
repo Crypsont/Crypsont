@@ -1,6 +1,12 @@
 # 👋 Salut, moi c'est Crypsont
 
-**Jeune passionné par la cybersécurité, futur pentester.** 🔐
+<img align="right" alt="hacker" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazk4YmllN3JzN3FkNmx4cTFwMDZ3dDc3cTg3dWt3dmUxdTBhazdmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+Je m'appelle Crypsont, 15 ans, passionné de cybersécurité et futur pentester. J'ai découvert ce monde il y a deux ans et depuis, c'est une obsession quotidienne.
+
+Autodidacte, je passe mon temps sur TryHackMe, à faire des CTFs, et à développer des outils de sécurité. Mon but : devenir pentester pro et aider à sécuriser le web.
+
+En dehors du hacking éthique, je code, je traîne sur des serveurs Discord de cybersécurité, et je suis toujours à l'affût des dernières vulnérabilités.
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-arkiiilm-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/arkiiilm)
 [![X](https://img.shields.io/badge/X-@Crypsont-black?style=for-the-badge&logo=x)](https://x.com/Crypsont)
@@ -22,15 +28,6 @@ class Crypsont:
 ## 📈 TryHackMe
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/arkiiilm.png" alt="TryHackMe Stats" width="500">
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crypsont&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypsont&layout=compact&theme=radical&hide_border=true" width="48%">
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Crypsont&theme=radical&hide_border=true" width="100%">
 
 ---
 
