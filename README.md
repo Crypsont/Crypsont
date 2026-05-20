@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Crypsont
 
-<!--
-**Crypsont/Crypsont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jeune passionné par la cybersécurité, futur pentester.** 🔐
 
-Here are some ideas to get you started:
+## 🚀 À propos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Objectif : Devenir **pentesteur professionnel**
+- 🧠 Apprentissage : **Autodidacte**, curieux, persévérant
+- 💻 Stack : Python, Bash, Linux, Réseaux
+- 📍 En constante évolution
+
+## 🛠️ Ce que j'apprends
+
+| Domaine | Outils / Concepts |
+|---------|------------------|
+| **Pentest** | Metasploit, Nmap, Burp Suite |
+| **OS** | Linux (Kali, Parrot), Windows |
+| **Réseaux** | TCP/IP, OSI, Wireshark |
+| **Scripting** | Python, Bash, PowerShell |
+| **Web** | SQLi, XSS, OWASP Top 10 |
+| **OSINT** | Reconnaissance, Footprinting |
+
+## 📈 Stats
+
+![Crypsont's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crypsont&show_icons=true&theme=radical)
+
+## 📫 Me contacter
+
+- 🐦 Twitter / X : [@Crypsont](https://x.com/Crypsont)
+
+---
+
+> *"Un hacker n'est pas un criminel, c'est quelqu'un qui comprend que la sécurité n'existe pas."*
