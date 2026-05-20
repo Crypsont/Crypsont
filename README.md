@@ -45,10 +45,6 @@ class Crypsont:
 ```
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Crypsont&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=D4AF37&hide_border=true" width="55%">
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crypsont&bg_color=0D1117&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true" width="100%">
 </p>
 
